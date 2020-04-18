@@ -1,3 +1,0 @@
-flask
-uwsgi
-prometheus_client
